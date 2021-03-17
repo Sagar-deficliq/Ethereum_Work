@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/iz38i7873tds/public_html
+group: iz38i7873tds
+hascgi: 1
+homedir: /home/iz38i7873tds
+ip: 166.62.28.88
+ipv6: ~
+owner: gdresell
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@deficliq.com
+serveralias: mail.deficliq.com www.deficliq.com
+servername: deficliq.com
+ssl: 1
+usecanonicalname: 'Off'
+user: iz38i7873tds
+userdirprotect: ''

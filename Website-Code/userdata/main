@@ -1,0 +1,11 @@
+--- 
+addon_domains: {}
+
+main_domain: deficliq.com
+parked_domains: []
+
+sub_domains: 
+  - test.deficliq.com
+  - try.protocol-kyc.deficliq.com
+  - test-prod.protocol-kyc.deficliq.com
+  - protocol-kyc.deficliq.com

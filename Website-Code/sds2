@@ -1,0 +1,4 @@
+protocol-kyc_deficliq.com=public_html/protocol-kyc.deficliq.com
+test-prod_protocol-kyc.deficliq.com=public_html/test-prod.protocol-kyc.deficliq.com
+test_deficliq.com=public_html/test.deficliq.com
+try_protocol-kyc.deficliq.com=public_html/try.protocol-kyc.deficliq.com
